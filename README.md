@@ -6,8 +6,8 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://i.im.ge/2022/09/14/1X5suc.Ekran-Alintisi.png)
-
-        <!DOCTYPE html>
+      
+      <!DOCTYPE html>
         <html lang="en">
         <head>
             <meta charset="UTF-8">
