@@ -5,7 +5,7 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://i.im.ge/2022/09/14/1X5suc.Ekran-Alintisi.png)
+![Uygulama Ekran Görüntüsü](https://www.hizliresim.com/jk7hb60][img]https://i.hizliresim.com/jk7hb60.PNG)
       
       <!DOCTYPE html>
         <html lang="en">
