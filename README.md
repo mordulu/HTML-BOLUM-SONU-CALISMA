@@ -83,12 +83,12 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
                           </ol>
                           <hr>
                        </article>
+                       <!-- Articles - End -->  
                       </section>
-                       <!-- Articles - End -->
                       <!-- Content - End -->
 
                       <!-- Footer - Start -->
-                      <!-- Footer - End -->
+
                       <footer>
                           <nav>
                               <ul>
@@ -104,5 +104,6 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
                               </ul>
                           </nav>
                       </footer>
+                      <!-- Footer - End -->
                   </body>
                   </html>
