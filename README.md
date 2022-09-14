@@ -8,3 +8,21 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
 ![Uygulama Ekran Görüntüsü](https://i.im.ge/2022/09/14/1X5suc.Ekran-Alintisi.png)
 
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
